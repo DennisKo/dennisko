@@ -2,7 +2,7 @@
 
 Fullstack dev building the future with AI. I can build an MVP faster than you can raise your Seed Round! 🚀
 
-- 🔭 I’m currently working on scaling the frontend of [Ecosia](https://www.ecosia.org/) to handle over 10,000 searches per minute, improving the search experience with AI.
+- 🔭 I’m currently working on scaling the frontend of [Ecosia](https://www.ecosia.org/) to handle over 10,000 searches per minute and improving the search experience with AI.
 - 💬 Ask me about full-stack development, Typescript, React, or building web apps.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/denniskortsch) | [X](https://x.com/dennis_kortsch)
 
