@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Fullstack dev building the future with AI. I can build an MVP faster than you can raise your Seed Round! 🚀
+Fullstack dev building the future with AI.
 
 - 🔭 I’m currently working on scaling the frontend of [Ecosia](https://www.ecosia.org/) and improving the search experience with AI.
 - 💬 Ask me about full-stack development, Typescript, React, or building web apps.
